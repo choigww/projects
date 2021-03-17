@@ -1,4 +1,4 @@
-# Projects Doraemon
+# Project Doraemon
 
 데이터 사이언티스트를 위한 도라에몽 툴박스
 
